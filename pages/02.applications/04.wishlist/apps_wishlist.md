@@ -295,6 +295,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Taiga](https://taiga.io) |  | [Upstream](https://github.com/taigaio/) |  |
 | [Tailscale](https://tailscale.com/) | [Wireguard](https://www.wireguard.com/)-based Mesh-VPN | [Upstream](https://github.com/tailscale/tailscale) |  |
 | [Taskwarrior](https://taskwarrior.org) |  | [Upstream](https://github.com/GothenburgBitFactory/taskwarrior) |  |
+| [Tastyigniter](https://tastyigniter.com) | Resturant Ordering Web Server |  | [Package Draft](https://https://github.com/Agwebberley/tastyigniter_ynh)
 | [Technitium DNS](https://technitium.com/dns/) |  | [Upstream](https://github.com/TechnitiumSoftware/DnsServer) |  |
 | [teddit](https://teddit.net/) | Alternative Reddit front-end focused on privacy | [Upstream](https://codeberg.org/teddit/teddit) |  |
 | [Teddy.io](https://teedy.io/) | Document manager | [Upstream](https://github.com/sismics/docs) |  |
